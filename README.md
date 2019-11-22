@@ -8,3 +8,5 @@ The code functions by identifying the nearest neighbors of each pixel and calcul
 NOTE: If you do not have the Image Processing Toolbox, you should replace the call to the regionfill function in this code with a call to my fill_region function (included in this folder), which accomplishes the same task with comparable computational efficiency. Either will run reasonably quickly, even for higher-resolution images.
 
 Please read function descriptions for full instructions on their use. Please see examples embedded in function descriptions for demonstrations of use.
+
+[![View Data Spike Removal for Images on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/73425-data-spike-removal-for-images)
